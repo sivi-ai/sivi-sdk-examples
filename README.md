@@ -26,4 +26,4 @@ Get Superuser Features. White-labeling, UI customisation, custom SDK deployment 
 - [Sivi API](https://developer.sivi.ai/docs/sivi-api/overview)
 
 ## Examples
-- [Sivi SDK Example](./sivi-sdk-example)
+- [Sivi SDK Example](./)
