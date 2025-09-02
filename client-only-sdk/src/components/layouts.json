@@ -1,0 +1,244 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Momentum Athletics - Side Layout",
+    "layout": "side-layout",
+    "elements": [
+      {
+        "type": "text",
+        "content": "Momentum Athletics",
+        "styles": "title-large text-center",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "width": 100,
+          "height": 30
+        }
+      },
+      {
+        "type": "visual",
+        "id": "shape1",
+        "placeholder": "Add your fitness journey visuals. Click to generate",
+        "prompt": "Create a modern social media post for fitness journey in dark green theme and professional fonts",
+        "styles": "visual-large",
+        "position": {
+          "x": 0,
+          "y": 30,
+          "width": 50,
+          "height": 70
+        }
+      },
+      {
+        "type": "visual",
+        "id": "shape2",
+        "placeholder": "Showcase workout equipment. Click to generate",
+        "prompt": "Create a modern post for workout equipment in dark blue theme and professional fonts",
+        "styles": "visual-medium",
+        "position": {
+          "x": 50,
+          "y": 30,
+          "width": 50,
+          "height": 35
+        }
+      },
+      {
+        "type": "text",
+        "content": "Transform your fitness journey.",
+        "styles": "text-medium text-left",
+        "position": {
+          "x": 52,
+          "y": 62,
+          "width": 50,
+          "height": 25
+        }
+      },
+      {
+        "type": "text",
+        "content": "Join thousands who have ignited their motivation and built strength every day.",
+        "styles": "text-small text-left",
+        "position": {
+          "x": 52,
+          "y": 85,
+          "width": 50,
+          "height": 10
+        }
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "Momentum Athletics - Vertical Layout",
+    "layout": "vertical-layout",
+    "elements": [
+      {
+        "type": "text",
+        "content": "Momentum Athletics",
+        "styles": "title-large text-center",
+        "position": {
+          "x": 0,
+          "y": 5,
+          "width": 100,
+          "height": 20
+        }
+      },
+      {
+        "type": "visual",
+        "id": "shape1",
+        "placeholder": "Feature your main fitness content. Click to generate",
+        "prompt": "Create a modern post for heavy weight fitness equipment in blue and green theme and professional fonts",
+        "styles": "visual-large",
+        "position": {
+          "x": 0,
+          "y": 30,
+          "width": 100,
+          "height": 40
+        }
+      },
+      {
+        "type": "visual",
+        "id": "shape2",
+        "placeholder": "Add training highlights. Click to generate",
+        "prompt": "Create a modern post to showcase benefits of fitness journey in green theme and professional fonts",
+        "styles": "visual-medium",
+        "position": {
+          "x": 0,
+          "y": 70,
+          "width": 50,
+          "height": 30
+        }
+      },
+      {
+        "type": "text",
+        "content": "Discover personalized workout plans, nutrition guidance, and expert coaching.",
+        "styles": "text-small text-left",
+        "position": {
+          "x": 50,
+          "y": 70,
+          "width": 50,
+          "height": 30
+        }
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "Content Focus Layout",
+    "layout": "content-layout",
+    "elements": [
+      {
+        "type": "visual",
+        "id": "shape1",
+        "placeholder": "Add featured image or graphic. Click to generate",
+        "prompt": "Create a modern post to digital innovation hub in blue and green theme and professional fonts",
+        "styles": "visual-sidebar",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "width": 33,
+          "height": 100
+        }
+      },
+      {
+        "type": "text",
+        "content": "Digital Innovation Hub",
+        "styles": "title-large text-left",
+        "position": {
+          "x": 33,
+          "y": 5,
+          "width": 67,
+          "height": 30
+        }
+      },
+      {
+        "type": "text",
+        "content": "Transforming ideas into powerful digital solutions that drive business growth and innovation.",
+        "styles": "text-medium text-left",
+        "position": {
+          "x": 33,
+          "y": 40,
+          "width": 67,
+          "height": 15
+        }
+      },
+      {
+        "type": "visual",
+        "id": "shape2",
+        "placeholder": "Showcase your work or products. Click to generate",
+        "prompt": "Create a modern post to digital growth with AI in green theme and professional fonts",
+        "styles": "visual-medium",
+        "position": {
+          "x": 33,
+          "y": 67,
+          "width": 67,
+          "height": 33
+        }
+      }
+    ]
+  },
+  "4": {
+    "id": 4,
+    "name": "Italian Restaurant Layout",
+    "layout": "restaurant-layout",
+    "elements": [
+      {
+        "type": "logo",
+        "content": "/brand_logo.png",
+        "styles": "logo-style",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "width": 30,
+          "height": 15
+        }
+      },
+      {
+        "type": "text",
+        "content": "Bella Vista Ristorante",
+        "styles": "title-medium text-center",
+        "position": {
+          "x": 0,
+          "y": 18,
+          "width": 100,
+          "height": 13
+        }
+      },
+      {
+        "type": "visual",
+        "id": "shape1",
+        "placeholder": "Feature signature dishes. Click to generate",
+        "prompt": "Graphic post for continental dishes in vibrant color theme and playful fonts",
+        "styles": "visual-large",
+        "position": {
+          "x": 0,
+          "y": 34,
+          "width": 100,
+          "height": 33
+        }
+      },
+      {
+        "type": "visual",
+        "id": "shape2",
+        "placeholder": "Show restaurant ambiance. Click to generate",
+        "prompt": "Post to show case a modern restaurant ambiance in brown theme and playful fonts",
+        "styles": "visual-medium",
+        "position": {
+          "x": 0,
+          "y": 70,
+          "width": 50,
+          "height": 26
+        }
+      },
+      {
+        "type": "text",
+        "content": "Experience authentic Italian cuisine in the heart of the city. Our family recipes, passed down through generations.",
+        "styles": "text-small text-justify",
+        "position": {
+          "x": 50,
+          "y": 70,
+          "width": 50,
+          "height": 26
+        }
+      }
+    ]
+  }
+}
