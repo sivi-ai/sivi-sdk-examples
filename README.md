@@ -27,3 +27,10 @@ Get Superuser Features. White-labeling, UI customisation, custom SDK deployment 
 
 ## Examples
 - [Sivi SDK Example](./)
+- [Client Only SDK Example](./client-only-sdk)
+- [Server Only API Example](./server-only-api)
+- [Client SDK with User Management Example](./client-sdk-with-user-mgmt)
+- [Client SDK with User Management Vanilla Example](./client-sdk-with-user-mgmt-vanilla)
+- [Server Only API Polling Example](./server-only-api-polling)
+- [Server Only API Python Example](./server-only-api-python)
+- [Server Only API PHP Example](./server-only-api-php)
